@@ -16,11 +16,6 @@ Lista de exercícios:
 
 Sou arquiteto corporativo de software e desenvolvedor.
 Desenvolvo soluções de domínio complexo em sistemas distribuídos de alta disponibilidade. 
-Já trabalhei como desenvolvedor em empresas líderes no varejo e turismo. 
-Atualmente, sou líder técnico numa empresa do ramo de pagamentos.
-Autor do *blog* [growiz.com.br](http://www.growiz.com.br).
-
-Estou aqui para compartilhar com você o que aprendi nesses 25 anos como desenvolvedor.
-
-* Formado em Sistemas de Informação.
-* Pós-graduado em Inteligência Artificial e Aprendizado de Máquina.
+Já trabalhei como desenvolvedor em empresas líderes do varejo e turismo. 
+Atualmente, sou líder técnico numa empresa do ramo de pagamentos e
+autor do *blog* [growiz.com.br](http://www.growiz.com.br).
