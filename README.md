@@ -3,7 +3,6 @@
 Aqui você encontra os *exercícios das aulas* da *Jornada do Programador*.
 
 ## Projetos:
-Lista de exercícios:
 
 * **Primeiro Programa:** https://bit.ly/2Juscf7
 * **Variáveis e Expressões:** https://bit.ly/3mvhfbE
@@ -16,6 +15,6 @@ Lista de exercícios:
 
 Sou arquiteto corporativo de software e desenvolvedor.
 Desenvolvo soluções de domínio complexo em sistemas distribuídos de alta disponibilidade. 
-Já trabalhei como desenvolvedor em empresas líderes do varejo e turismo. 
+Já trabalhei em empresas líderes do varejo e turismo. 
 Atualmente, sou líder técnico numa empresa do ramo de pagamentos e
 autor do *blog* [growiz.com.br](http://www.growiz.com.br).
