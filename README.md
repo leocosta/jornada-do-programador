@@ -9,6 +9,8 @@ Aqui você encontra os *exercícios das aulas* da *Jornada do Programador*.
 * **Controle de Fluxo:** https://bit.ly/3lo20zO
 * **Trabalhando com Arrays:** https://bit.ly/2JAxGow
 * **Mais sobre Variáveis:** https://bit.ly/3ocwHK6
+* **Manipulando Strings:** https://bit.ly/3mHGpDU
+* **Funções:** https://bit.ly/2VHHwrj
 ---
 
 ### Sobre mim:
